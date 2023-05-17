@@ -1,0 +1,63 @@
+.headding{
+    display: block;
+    color: white;
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: 30px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    height: 150px;
+    border-radius: 5px;
+}
+.add_senario{
+    height: 30px;
+    width: 120px;
+    background-color: #6495ED;
+    border: none;
+    border-radius: 3px;
+}
+.add_vehicle{
+    margin-left: 20px;
+    height: 30px;
+    width: 100px;
+    background-color:#6AF853;
+    border: none;
+    border-radius: 3px;
+}
+.delete{
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 30px;
+    width: 90px;
+    border: none;
+    background-color: #FF8C00;
+    border-radius: 3px;
+}
+th{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 150px;
+    background-color: gray;
+}
+td{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    width: 150px;
+}
+table td{
+    border: none;
+}
+table{
+    margin-left: 30px;
+}
+.table_addVehicle{
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+}

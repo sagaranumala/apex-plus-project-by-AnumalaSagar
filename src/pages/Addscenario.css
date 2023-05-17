@@ -1,0 +1,68 @@
+.container-add{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.add_scenario{
+    color: white;
+}
+.head{
+    display: block;
+    color: white;
+    margin-top: 30px;
+    font-size: 25px;
+    font-weight: 400;
+}
+.scenario_name{
+    display: block;
+    height: 25px;
+    width: 220px;
+    border:1px solid white;
+    border-radius: 3px;
+}
+.scenario_time{
+    display: block;
+    height: 25px;
+    width: 220px;
+    border:1px solid white;
+    border-radius: 3px;
+}
+.scenario_time{
+    display: block;
+}
+.input_box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+    width: 80%;
+    height: 150px;
+    background-color: gray;
+    border-radius: 5px;
+}
+.buttons{
+    margin-top: 30px;
+}
+#add{
+    height: 30px;
+    width: 60px;
+    background-color:#6AF853;
+    border: none;
+    border-radius: 3px;
+}
+#reset{
+    margin-left: 20px;
+    height: 30px;
+    width: 70px;
+    border: none;
+    background-color: #FF8C00;
+    border-radius: 3px;
+}
+#goback{
+    margin-left: 20px;
+    height: 30px;
+    width: 80px;
+    background-color: #6495ED;
+    border: none;
+    border-radius: 3px;
+}

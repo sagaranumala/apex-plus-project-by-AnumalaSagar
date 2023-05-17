@@ -1,0 +1,59 @@
+.dropdown2{
+    height: 25px;
+    width: 220px;
+    display: block;
+}
+.select_scenarioname{
+    margin-left: 30px;
+}
+th{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 150px;
+    background-color: gray;
+}
+td{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    width: 150px;
+}
+table{
+    margin-top: 20px;
+    margin-left: 30px;
+    border: none;
+}
+.graph{
+    height: 500px;
+    width: 1200px;
+    background-color: gray;
+    margin-top: 50px;
+    margin-left: 30px;
+    position: relative;
+}
+.simulation{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+    gap:30px;
+}
+.start{
+    background-color: #6AF853;
+    width: 120px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+}
+.stop{
+    background-color: #6495ED;
+    width: 120px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+}
+.car{
+    overflow: hidden;
+}

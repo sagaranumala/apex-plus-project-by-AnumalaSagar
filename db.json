@@ -1,0 +1,31 @@
+{
+  "mydata": [
+    {
+      "scenarioName": "sagar",
+      "scenarioTime": "10",
+      "vehicleList": [
+        {
+          "vehicleName": "car",
+          "vehicleSpeed": "10",
+          "positionX": "100",
+          "positionY": "200",
+          "vehiceDirection": "Towards"
+        },
+        {
+          "vehicleName": "bike",
+          "vehicleSpeed": "20",
+          "positionX": "200",
+          "positionY": "300",
+          "vehiceDirection": "Backwards"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "scenarioName": "kumar",
+      "scenarioTime": "20",
+      "vehicleList": [],
+      "id": 2
+    }
+  ]
+}
